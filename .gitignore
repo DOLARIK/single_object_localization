@@ -2,7 +2,7 @@
 *.mp4
 
 # Image Files
-*.png
+# *.png
 
 # GIF Files
 *.gif
