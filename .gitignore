@@ -1,0 +1,12 @@
+# Video Files
+*.mp4
+
+# Image Files
+*.png
+
+# GIF Files
+*.gif
+
+# Model
+*.h5
+*.tflite
